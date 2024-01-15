@@ -5,3 +5,7 @@ A fictional online E-Commerce store receives numerous daily visitors to their we
 ### Key questions
 1.   Which of the website interactions affect a users likelyhood to purchase?
 2.   Can we score visitors from yesterday, to see who the most valuable prospects are?
+
+#### Dataset: https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
+
+All workings are in Colab notebook above named: **Customer_Propensity_to_Purchase.ipynb**
