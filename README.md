@@ -46,4 +46,4 @@ A fictional online E-Commerce store receives numerous daily visitors to their we
 
 ### Dataset: https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
 
-All workings are in Colab notebook above named: **Customer_Propensity_to_Purchase.ipynb**
+All workings are in Colab notebook named [Customer_Propensity_to_Purchase.ipynb](https://github.com/johnuzoma/Propensity-Modelling/blob/main/Customer_Propensity_to_Purchase.ipynb).
