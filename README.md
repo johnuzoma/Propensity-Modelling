@@ -2,7 +2,7 @@
 
 A fictional online E-Commerce store receives numerous daily visitors to their website, with varying conversion rates—some make purchases, while others do not. Their strategy involves investing in re-targeting efforts for past visitors. Their goal is to enhance the efficiency of this initiative by focusing on those visitors who exhibit a higher likelihood of converting. To achieve this, they need me to help them understand the specific sections of their website where users engage.
 
-### Key questions
+### Key Questions
 1.   Which of the website interactions affect a user's likelihood to purchase?
 2.   Can we score visitors from yesterday, to see who the most valuable prospects are?
 
@@ -44,6 +44,8 @@ A fictional online E-Commerce store receives numerous daily visitors to their we
 - Ensure that the delivery details and checkout pages are easy to navigate and provide all necessary information. A streamlined, user-friendly interface on these pages can increase the likelihood of conversion.
 - Consider adding features such as estimated delivery dates, various payment options, and trust badges on the checkout page to enhance user confidence.
 
-### Dataset: https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
-
+### Solution Files
 All workings are in Colab notebook named [Customer_Propensity_to_Purchase.ipynb](https://github.com/johnuzoma/Propensity-Modelling/blob/main/Customer_Propensity_to_Purchase.ipynb).
+
+### Dataset 
+https://www.kaggle.com/datasets/benpowis/customer-propensity-to-purchase-data
